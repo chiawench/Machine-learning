@@ -1,2 +1,1 @@
-# Machine-learning
-Basic Machine learning algorithm
+Solution for coursera machine learning exercises
